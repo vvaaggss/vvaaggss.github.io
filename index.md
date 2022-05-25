@@ -18,7 +18,7 @@
             <p>este grupo de 8 integrantes han estado espantando a latinoamerica estos</p>
             <p>ultimos meses, se rumoreo que uno de los intengrantes del grupo criminal es</p>
             <p>un experimento fallido de laboratorios manjarate y este habria logrado</p>
-            <p>escapar de tu incubadora en el año 2003</p>
+            <p>escapar de su incubadora en el año 2003</p>
         </div>
 
     </font>
