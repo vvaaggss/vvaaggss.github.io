@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<title>pichulanders.web</title>
 
-You can use the [editor on GitHub](https://github.com/vvaaggss/vvaaggss.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <h1>
+        <font color="blue" face="Cooper Black" size="20">-PICHULANDERS WIKI-</font>
+        <div style="line-height: 20%">
+            <font color="grey" face="Cooper Black" size="4">---informacion sobre el grupo criminal mas buscado en
+                andorra---</font>
+        </div>
+    </h1>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body bgcolor="pink">
+    <font face="Cooper Black" size="4">
+        <div style="line-height: 20%">
+            <p>este grupo de 8 integrantes han estado espantando a latinoamerica estos</p>
+            <p>ultimos meses, se rumoreo que uno de los intengrantes del grupo criminal es</p>
+            <p>un experimento fallido de laboratorios manjarate y este habria logrado</p>
+            <p>escapar de tu incubadora en el año 2003</p>
+        </div>
 
-### Markdown
+    </font>
+</body>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vvaaggss/vvaaggss.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
